@@ -1,2 +1,2 @@
 # exampleRepositry
-This respositry for example purpose
+This line for practicing github
